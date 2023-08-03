@@ -1,6 +1,6 @@
 # LangBridge
 
-LangBridge is a language translating framework written in TypeScript for Node.js LangBridge can translate into over 400 languages. It also has automatic language detection if a language is not specified in the code.
+LangBridge is a language translating framework written in TypeScript for Node.js LangBridge can translate into bunch of well known languages. It also has automatic language detection if a language is not specified in the code.
 
 ### To install Langbridge:
 
