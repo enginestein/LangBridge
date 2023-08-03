@@ -1,5 +1,6 @@
 export type Locale =
   | 'auto'
+  | 'sa'
   | 'en'
   | 'pt'
   | 'pt-BR'
