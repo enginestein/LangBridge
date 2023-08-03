@@ -36,12 +36,6 @@ const { translate } = require('langbridge');
 })();
 ```
 
-### To Do
-
-- Add roman text in the translation
-
-- Add more languages
-
 ### Supported Languages:
 
 - en - English
